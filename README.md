@@ -1,1 +1,3 @@
 # kanaya-processing-test
+
+これはProcessingのテストです．
